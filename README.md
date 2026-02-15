@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Churn%20Prediction-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![Status](https://img.shields.io/badge/Status-Complete-success)
 
 
 **Pipeline completo de Machine Learning para predecir la cancelación de clientes en telecomunicaciones**

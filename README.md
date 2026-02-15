@@ -1,10 +1,7 @@
 # 📊 Telecom X - Predicción (Parte 2)
 <div align="center">
-``
 # Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link)
-
 # Status(https://img.shields.io/badge/Status-Complete-success.svg)]()
-
 **Sistema de Machine Learning para predecir la cancelación de clientes en telecomunicaciones**
 
 [🚀 Ejecutar en Colab](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link) • [📧 Contacto](mailto:jordanne@hotmail.es)

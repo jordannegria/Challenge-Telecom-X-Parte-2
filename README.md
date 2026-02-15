@@ -198,7 +198,7 @@ cd Challenge-Telecom-X---Parte-2
 ```
 
 2. **O descarga directamente:**
-   - Ve al [repositorio en GitHub](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git)
+   - Ve al [repositorio en GitHub](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)
    - Haz clic en "Code" → "Download ZIP"
    - Extrae los archivos
 
@@ -1072,7 +1072,7 @@ Si usas este proyecto en tu trabajo, por favor cita:
 
 ```
 Jordan Negria Chiripua (2025). 
-Telecom X - Predicción de Churn: Pipeline completo de Machine Learning.
+Telecom X - Predicción : Pipeline completo de Machine Learning.
 Contact: jordanne@hotmail.es
 ```
 
@@ -1107,11 +1107,11 @@ Contact: jordanne@hotmail.es
 
 **Repositorio oficial del proyecto:**
 
-🔗 **[https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git)**
+🔗 **[https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)**
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git
+git clone https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git
 
 # Navegar al directorio
 cd Challenge-Telecom-X---Parte-2
@@ -1137,14 +1137,13 @@ cd Challenge-Telecom-X---Parte-2
 ```
 Challenge-Telecom-X---Parte-2/
 │
-├── 📓 Telecom_X_Parte2_Prediccion_Churn.ipynb
+├── 📓 Telecom_X_Parte2_Prediccion.ipynb
 │   └── Notebook principal con análisis completo
 │
 ├── 📊 datos_tratados.csv
 │   └── Dataset de 7,267 clientes
 │
-├── 📖 README.md
-│   └── Documentación completa (este archivo)
+
 
 ```
 
@@ -1197,7 +1196,7 @@ Este proyecto representa más que un simple análisis de datos. Es una **soluci�
 
 ### 🔗 Enlaces del Proyecto
 
-🌟 **[Repositorio GitHub](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git)**  
+🌟 **[Repositorio GitHub](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)**  
 📓 **[Abrir en Google Colab](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link)**
 
 ---

@@ -1,4 +1,4 @@
-# 📊 Telecom X - Parte 2: Predicción de Churn
+# 📊 Telecom X - Parte 2: Predicción
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 **Opción 2: Clonar desde GitHub**
 
 ```bash
-git clone https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git
+git clone https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git
 ```
 
 ---
@@ -1145,19 +1145,14 @@ Challenge-Telecom-X---Parte-2/
 │
 ├── 📖 README.md
 │   └── Documentación completa (este archivo)
-│
-├── 📋 INSTRUCCIONES.md
-│   └── Guía paso a paso
-│
-└── 📄 LICENSE
-    └── Términos de uso
+
 ```
 
 ### 🌟 Estrellas en GitHub
 
 Si este proyecto te fue útil, ¡considera darle una ⭐ en GitHub!
 
-**[⭐ Star en GitHub](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2)**
+**[⭐ Star en GitHub](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)**
 
 ---
 
@@ -1224,7 +1219,7 @@ Este proyecto representa más que un simple análisis de datos. Es una **soluci�
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
-**[⭐ Dale Star al Proyecto](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2)**
+**[⭐ Dale Star al Proyecto](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)**
 
 </div>
 

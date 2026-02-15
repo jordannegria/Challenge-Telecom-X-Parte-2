@@ -11,9 +11,9 @@
 ### 🚀 Acceso Rápido
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)
 
-**[📂 Ver Repositorio](https://github.com/jordannegria/Challenge-Telecom-X---Parte-2.git)** | **[▶️ Ejecutar en Colab](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link)**
+**[📂 Ver Repositorio](https://github.com/jordannegria/Challenge-Telecom-X-Parte-2.git)** | **[▶️ Ejecutar en Colab](https://colab.research.google.com/drive/1dZR4UQkFRlTS7l4flv0ayyBiLTUMRe8y?usp=drive_link)**
 
 </div>
 
